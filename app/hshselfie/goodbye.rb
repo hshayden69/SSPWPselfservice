@@ -1,2 +1,2 @@
-puts "Goodbye - V2"
+puts "Goodbye - V2 - release1.0"
 
